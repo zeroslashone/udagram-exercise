@@ -1,13 +1,13 @@
 {
   "name": "service-10-udagram-app",
   "version": "1.0.0",
+  "type": "module",
   "description": "Serverless webpack example using Typescript",
   "main": "handler.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@types/jimp": "^0.2.28",
     "@types/uuid": "^7.0.3",
     "core-js": "^2.6.11",
     "elasticsearch": "^16.7.1",
